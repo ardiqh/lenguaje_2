@@ -1,1 +1,10 @@
+40
+12
+42
+2.0
+True
+True
+True
 False
+invalid syntax (<string>, line 1)
+invalid syntax (<string>, line 1)
