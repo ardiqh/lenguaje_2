@@ -6,7 +6,7 @@ def reemplazar_simbolos(texto):
         "dividido": "/",
         "mayor que": " > ",
         "menor que": " < ",
-        "igual": " == ",
+        "equivale": " == ",
         "diferente": " != ",
         "mayor igual": " >= ",
         "menor igual": " <= ",
