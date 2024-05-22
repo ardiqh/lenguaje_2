@@ -2,9 +2,9 @@
 17 menos 5
 6 por 7
 10 dividido 5
-15 mayor_que 12
-13 menor_que 20
-10 igual 10
+15 mayor que 12
+13 menor que 20
+10 equivale 10
 10 diferente 10
-20 mayor_igual 20
-2 menor_igual 6
+20 mayor igual 20
+2 menor igual 6
