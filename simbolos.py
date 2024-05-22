@@ -10,7 +10,6 @@ def reemplazar_simbolos(texto):
         "diferente": " != ",
         "mayor igual": " >= ",
         "menor igual": " <= ",
-        "print": "print"
     }
     for palabra, simbolo in reemplazos.items():
         texto = texto.replace(palabra, simbolo)
